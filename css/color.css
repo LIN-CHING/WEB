@@ -4,7 +4,8 @@ html{
 }
 body < div{
   text-align: center;
-  margin: auto;
+  margin-left:150px;
+   margin-right:150px;
 }
 .container{
   max-width: 940px;
