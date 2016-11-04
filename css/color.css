@@ -2,7 +2,7 @@ html{
   background-color: #FAF0E6;
   width: 1280px;
 }
-body > div{
+body div{
   text-align: center;
   margin-left:150px;
   margin-right:150px;
